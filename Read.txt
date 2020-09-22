@@ -1,0 +1,9 @@
+Unzip entire zip file to a folder...(doh)
+Open Googler.vbp in visual basic 6 and
+ compile it to your system folder.
+Close it and open the example folder.
+Open Project1.vbp in Visual Basic 6.
+Enjoy Your Google Control :)
+
+-Code By Lewis Miller
+ http://kickme.to/overdrive
